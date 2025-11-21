@@ -1,3 +1,4 @@
+cbee58c Completed Task 2.1
 9646a12 Change log.txt for Task 1.2
 659371a Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
