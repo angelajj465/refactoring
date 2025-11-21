@@ -1,3 +1,4 @@
+a7676c7 Completed Task 2.3
 e673a6e completed Task 2.2
 cbee58c Completed Task 2.1
 9646a12 Change log.txt for Task 1.2
