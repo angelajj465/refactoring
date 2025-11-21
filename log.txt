@@ -1,3 +1,6 @@
+c20563b Adding Task 2.4 message
+ef19f1e Adding Task 2.4 commit message.
+6d74e54 Completed Task 2.4
 a7676c7 Completed Task 2.3
 e673a6e completed Task 2.2
 cbee58c Completed Task 2.1
@@ -9,4 +12,3 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
-Completed Task 2.4
